@@ -1,0 +1,1 @@
+<?php $seo_sg_settings = "{\"frontend_ip_list\":\"\",\"frontend_ip_list_allow\":\"\",\"frontend_country_list\":\"[\\\"AF\\\",\\\"BY\\\"]\",\"protection_frontend\":\"0\"}"; ?>
